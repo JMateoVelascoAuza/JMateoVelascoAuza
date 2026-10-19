@@ -10,7 +10,7 @@ Ten years in tech, from hardware and support desks to full-stack products.
 Freelance full-stack developer · Full-stack & systems at Inbolsa · CRM integrations at The Call Center Doctors
 
 **Featured**<br>
-[Entreobra](https://entreobra.com): landing + PWA for a construction-materials marketplace in <br>
+[Entreobra](https://entreobra.com): landing + PWA for a construction-materials marketplace in Cochabamba<br>
 [Portfolio](https://jmateovelascoauza.github.io): my work, process and how to reach me
 
 <br>
