@@ -6,11 +6,11 @@
 I design and develop **apps and websites**, and build the backend, integrations and CRMs behind them.
 Ten years in tech, from hardware and support desks to full-stack products.
 
-**Now**
+**Now**<br>
 Freelance full-stack developer · Full-stack & systems at Inbolsa · CRM integrations at The Call Center Doctors
 
-**Featured**
-[Entreobra](https://entreobra.com): landing + PWA for a construction-materials marketplace in Cochabamba
+**Featured**<br>
+[Entreobra](https://entreobra.com): landing + PWA for a construction-materials marketplace in <br>
 [Portfolio](https://jmateovelascoauza.github.io): my work, process and how to reach me
 
 <br>
