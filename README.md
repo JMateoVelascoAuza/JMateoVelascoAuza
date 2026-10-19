@@ -6,8 +6,16 @@
 <br>
 
 I build products end to end: mobile apps, web frontends and the backends that hold them up.
+Ten years in tech, from hardware and support desks to full-stack products and CRM integrations.
 Lately that means cross-platform apps with **React Native & Expo**, web with **Next.js**, and data on
 **Supabase / PostgreSQL**. I like interfaces that feel alive, and I want every tap to have a business reason behind it.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <img src="assets/experience-light.svg" alt="Experience: Full-stack developer at Inbolsa LTDA (2025–now), Integrations developer & CRM specialist at The Call Center Doctors (2024–now), Software developer at Geolabs.cloud / Aerovista SRL (2023–2024), Software developer at ETV Consulting (2021–2022), Hardware technician & customer support (2015–2021)" width="100%">
+</picture>
 
 <br>
 
@@ -23,11 +31,12 @@ Lately that means cross-platform apps with **React Native & Expo**, web with **N
 <a href="https://jmateovelascoauza.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-catalogo-dark.svg"><img src="assets/card-catalogo-light.svg" alt="Portfolio Catalog — a portfolio shaped like a product catalog" width="49%"></picture></a>
 </p>
 
-### Now
+### Also
 
-- Building cross-platform mobile apps with React Native and Expo, backed by Supabase.
-- Studying Systems Engineering at Universidad Privada Boliviana.
-- Setting algorithmic problems for Codeforces.
+- **Systems Engineering** at Universidad Privada Boliviana.
+- **Google Developer Student Clubs** — Tech Lead Team.
+- Setting algorithmic problems for **Codeforces**.
+- **Spanish** (native) · **English** (bilingual support, medical interpretation).
 
 ### Contact
 

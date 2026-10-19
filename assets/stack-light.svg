@@ -47,7 +47,7 @@ text{font-family:JBM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#
 <line x1="40" y1="240" x2="840" y2="240" stroke="#C9C7B8" stroke-width=".6" opacity=".7"/></g><g class="row" style="animation-delay:0.68s">
 <text x="40" y="262" font-size="13" class="s b4">05</text>
 <text x="96" y="262" font-size="12.5" letter-spacing="1.6" class="b7">INTEGRATIONS</text>
-<text x="268" y="262" font-size="15" class="b4">WhatsApp Cloud API · GoHighLevel · ViciDial</text>
+<text x="268" y="262" font-size="15" class="b4">WhatsApp API · GoHighLevel · ViciDial · Zendesk · Kommo</text>
 <text x="840" y="262" font-size="14" class="r b7" text-anchor="end">✓</text>
 <line x1="40" y1="276" x2="840" y2="276" stroke="#C9C7B8" stroke-width=".6" opacity=".7"/></g><g class="row" style="animation-delay:0.80s">
 <text x="40" y="298" font-size="13" class="s b4">06</text>
